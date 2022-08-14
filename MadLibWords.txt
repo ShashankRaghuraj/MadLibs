@@ -1,0 +1,11 @@
+Adjective: a
+Name: b
+Verb: c
+Place: d
+Adjective: e
+Verb: f
+Verb: g
+Adjective: h
+Adjective: i
+Name: j
+Famous Person: k
